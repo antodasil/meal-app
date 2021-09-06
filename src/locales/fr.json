@@ -1,0 +1,11 @@
+{
+  "application": {
+    "_comment": "Global",
+    "actions": {
+      "add": "Ajouter",
+      "remove": "Supprimer",
+      "save": "Sauvegarder",
+      "cancel": "Annuler"
+    }
+  }
+}
